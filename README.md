@@ -249,6 +249,9 @@ mysql -u root -p hardware_repair_tracker < sql/database.sql
 ```bash
 git clone https://github.com/your-username/hardware-repair-request-tracker.git
 ```
+```bash
+https://github.com/HiranthaSandaruwan/Hardware-Request-Tracker.git
+```
 Or download the ZIP file and extract it.
 
 #### 2️⃣ Move Project to Server Directory
