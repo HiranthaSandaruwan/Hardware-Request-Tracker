@@ -12,7 +12,7 @@
 <a id="overview"></a>
 ## 📖 Overview
 
-The **Hardware Repair Request Tracker** is a web-based system designed to streamline the process of submitting, tracking, assigning, and managing hardware repair requests.
+The **Hardware Repair Request Tracker** is a role-based web application that manages the full hardware repair lifecycle in one place—from customer request submission to technician proposals and appointments, then completion and payment tracking.
 
 This system is ideal for:
 - University IT departments
@@ -20,7 +20,9 @@ This system is ideal for:
 - Small-to-medium service centers
 
 It provides **three dedicated dashboards** (Customer, Technician, Admin), ensuring that each user role has access only to the features relevant to them.  
-From request creation to repair completion and payment tracking, the entire workflow is handled transparently and efficiently.
+
+Typical workflow:
+**Request → Proposal → Acceptance → Appointment → Repair Completion → Payment/Reports**.
 
 ---
 
@@ -373,10 +375,11 @@ Hardware/
 <a id="team"></a>
 ## 🤝 Team
 
-- **[Your Name]** – Full Stack Development
-- **[Team Member]** – Database & Backend
-- **[Team Member]** – UI/UX & Testing
-
+- **S A H S Lakshan**
+- **G H D H Maahela**
+- **B P Kandanage**
+- **N T Lakshan**
+- **H I Liyanapathirana**
 ---
 
 <a id="license"></a>
@@ -385,3 +388,4 @@ Hardware/
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project with proper attribution.
 
+Last updated: December 2025
